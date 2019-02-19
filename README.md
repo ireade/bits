@@ -1,6 +1,25 @@
 # bits
 Snippets of things I re-use but always forget exactly how to write it
 
+## HTML boilerplate
+
+```html
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+    <script src="js/main.js" async defer></script>
+</body>
+</html>
+```
 
 ## HTML Video
 
